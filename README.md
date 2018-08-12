@@ -15,9 +15,12 @@ Para saques e transferências o sistema deve impedir que seja retirado um valor 
 Em depósitos deve-se garantir que o que está sendo depositado realmente é um número real. O mesmo vale para transferências e pedidos de saque, obviamente.
 
   Detalhes específicos:
+  
     •	Em uma conta corrente é possível que haja um limite especial para o usuário saca além da quantidade de saldo disponível.
+    
     •	Quando acontecer uma transferência de uma conta corrente para uma outra conta corrente ou poupança, deve ser descontado 
       do saldo restante um valor equivalente a 3% do valor transferido.
+      
     •	Em uma conta poupança deve haver uma taxa de rendimento de 0,5% e uma ação que possa ser invocada para aplicar 
       esse rendimento sobre o saldo em determinados períodos de tempo.
     
