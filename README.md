@@ -16,13 +16,13 @@ Em depósitos deve-se garantir que o que está sendo depositado realmente é um 
 
   Detalhes específicos:
   
-    •	Em uma conta corrente é possível que haja um limite especial para o usuário saca além da quantidade de saldo disponível.
+    •Em uma conta corrente é possível que haja um limite especial para o usuário saca além da quantidade de saldo disponível.
     
-    •	Quando acontecer uma transferência de uma conta corrente para uma outra conta corrente ou poupança, deve ser descontado 
-      do saldo restante um valor equivalente a 3% do valor transferido.
+    •Quando acontecer uma transferência de uma conta corrente para uma outra conta corrente ou poupança, deve ser descontado 
+     do saldo restante um valor equivalente a 3% do valor transferido.
       
-    •	Em uma conta poupança deve haver uma taxa de rendimento de 0,5% e uma ação que possa ser invocada para aplicar 
-      esse rendimento sobre o saldo em determinados períodos de tempo.
+    •Em uma conta poupança deve haver uma taxa de rendimento de 0,5% e uma ação que possa ser invocada para aplicar 
+     esse rendimento sobre o saldo em determinados períodos de tempo.
     
 Todos os tipos de dados ficam a seu critério e sua escolha será também um ponto a ser avaliado.
 Você não precisa se preocupar em criar interface gráfica e nem persistir os dados bancos de dados ou qualquer outra estratégia. Pode ser só o código com uma função main mesmo. Porém é obrigatório que o código rode e todos os métodos possam ser invocados de alguma maneira.
